@@ -1,4 +1,4 @@
-# Multi-Agent Chatbot
+#  Multi-Agent Chatbot (MAC)
 
 This project is a multi-agent system designed to answer user questions through a coordinated effort between specialized AI agents. A central Coordinator agent manages a team of workers—a Research Agent, an Analysis Agent, and a Memory Agent—to provide comprehensive answers and persist knowledge over time.
 This system is built using Python, with Docker for containerization and ChromaDB as its vector-based memory layer.
