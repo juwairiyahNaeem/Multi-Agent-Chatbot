@@ -26,7 +26,7 @@ def main():
     coordinator = Coordinator(research_agent, analysis_agent, memory_agent)
 
     logging.info("System initialized. You can now ask questions.")
-    print("\nWelcome to the Multi-Agent Chat System! Type 'exit' to quit.")
+    print("\nWelcome to the Multi-Agent Chatbot! Type 'exit' to quit.")
 
     try:
         while True:

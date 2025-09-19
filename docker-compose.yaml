@@ -3,7 +3,7 @@ version: '3.8'
 services:
   multi-agent-system:
     build: .
-    container_name: multi-agent-chat
+    container_name: Multiagent-Chatbot
     stdin_open: true # Allows for interactive input (-i)
     tty: true        # Allocates a pseudo-TTY (-t)
     volumes:
